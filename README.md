@@ -15,9 +15,9 @@ The goal is to turn PolyTrack into a tool not just for racing, but for content c
 ## Features
 
 - Keyframe-based camera editor  
-- Additional camera types  
+- Additional cameras
 - Cinematic camera settings (FOV, depth of field, etc.)  
-- Smooth camera movement  
+- Smooth camera movement and locking onto cars / objects
 
 ---
 
